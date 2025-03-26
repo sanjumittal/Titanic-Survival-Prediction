@@ -56,8 +56,3 @@ The model achieves **high accuracy** in predicting survival, evaluated using:
 🔹 Try different ML algorithms (Logistic Regression, XGBoost)  
 🔹 Hyperparameter tuning for better accuracy  
 🔹 Feature engineering to extract more insights  
-
----
-### 📩 **Contributions & Feedback**
-If you find any improvements or suggestions, feel free to open an issue or a pull request! 🚀
-
